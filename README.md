@@ -87,8 +87,8 @@ npm run test-coverage
 npm run test-integration
 ```
 ## Contact
-Blog: https://gabelopment.wordpress.com/
+Blog: https://somedevnotes.wordpress.com/
 
-Github: https://github.com/elgitdegabi
+Github: https://github.com/gabo-gil-playground
 
 Linkedin: https://www.linkedin.com/in/gabogil/
